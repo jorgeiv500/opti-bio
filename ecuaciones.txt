@@ -1,0 +1,8 @@
+SCOPUS_1: 138 RESULTADOS
+ALL ( ( ( biomass OR "biomass supply chain*" OR "bioenergy supply chain*" ) AND ( "multi-objective optimiz*" OR "multi-criteria optimiz*" OR "multiple objective*" ) AND ( bayes* OR "Bayesian approach*" OR "Bayesian method*" OR "Bayesian inference" OR "probabilistic model*" OR "stochastic programming" OR "stochastic optimization" ) AND ( uncertain* OR "dynamic decision*" OR "decision making" ) AND ( "organic waste*" OR "food waste*" OR "municipal organic waste*" OR "market waste*" OR "food market waste*" OR "organic fraction" OR "biowaste" OR "food residue*" OR "organic residue*" OR "food by-product*" ) AND ( "waste-to-energy" OR "waste-to-biomass" OR "waste valorization" OR "anaerobic digestion" OR "biomass conversion" ) ) )
+
+SCOPUS_2: 1114 RESULTADOS
+ALL ( ( ( "biomass supply chain*" OR "bioenergy supply chain*" OR "biomass-to-biofuel supply chain*" OR "biomass logistics" OR "biomass procurement" OR "biomass conversion" OR "bioenergy network*" OR "biomass distribution" OR "feedstock supply chain*" ) AND ( "multi-echelon" OR "supply network design" OR "facility location" OR "logistics network*" OR "transportation network*" ) AND ( optimiz* OR "multi-objective" OR "decision making" ) AND ( bayes* OR stochastic OR uncertain* ) ) )
+
+SCOPUS 3: 2170 RESULTADOS
+ALL ( ( ( biomass OR "biomass supply chain*" OR "bioenergy supply chain*" ) AND ( "multi-objective optimiz*" OR "multi-criteria optimiz*" OR "multiple objective*" ) AND ( bayes* OR "Bayesian approach*" OR "Bayesian method*" OR "Bayesian inference" OR "probabilistic model*" OR "stochastic programming" OR "stochastic optimization" ) AND ( uncertain* OR "dynamic decision*" OR "decision making" ) ) )
